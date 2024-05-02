@@ -22,7 +22,7 @@ public class ExtracImgFromYoutubeVideoUrl {
         String url = keyboard.nextLine();
 
         // Ask user for image quality:
-        System.out.println("Pick quality:");
+        System.out.println("Pick quality of the image:");
         System.out.println("1) Alta");
         System.out.println("2) Baja");
         String quality;
