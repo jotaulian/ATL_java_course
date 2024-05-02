@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01ac5b5e-7ecd-48ed-a0ee-0f1a4f675a22" name="Changes" comment="ATL java course">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejerciciossimples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoCostoRender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoFrecuenciaCardiaca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculoIVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EdadesCondicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Regla503020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TasaRespiracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AtencionCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtracImgFromYoutubeVideoUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplos7y4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerifyPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jotaulian&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jotaulian/ATL_java_course&quot;,
+    &quot;accountId&quot;: &quot;a7f7e206-7e77-44a7-afdf-05e654444abe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2flhJCuOOiL12AGRhJ8zofASOIP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,11 +55,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayBasics.executor": "Run",
+    "Application.AtencionCliente.executor": "Run",
     "Application.CalculoFrecuenciaCardiaca.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
     "Application.EdadesCondicional.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.ExtracImgFromYoutubeVideoUrl.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PasswordGenerator.executor": "Run",
     "Application.Regla503020.executor": "Run",
     "Application.TasaRespiracion.executor": "Run",
+    "Application.VerifyPassword.executor": "Run",
     "Application.calculo_iva.executor": "Run",
     "Application.calculo_render.executor": "Run",
     "Application.edades.executor": "Debug",
@@ -63,37 +77,37 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TasaRespiracion">
-    <configuration name="CalculoCostoRender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoCostoRender" />
+  <component name="RunManager" selected="Application.ExtracImgFromYoutubeVideoUrl">
+    <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBasics" />
       <module name="ejerciciossimples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoFrecuenciaCardiaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoFrecuenciaCardiaca" />
+    <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompoundInterest" />
       <module name="ejerciciossimples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoIVA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoIVA" />
+    <configuration name="ExtracImgFromYoutubeVideoUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtracImgFromYoutubeVideoUrl" />
       <module name="ejerciciossimples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EdadesCondicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EdadesCondicional" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ejerciciossimples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TasaRespiracion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TasaRespiracion" />
+    <configuration name="Multiplos7y4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiplos7y4" />
       <module name="ejerciciossimples" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TasaRespiracion" />
-        <item itemvalue="Application.CalculoFrecuenciaCardiaca" />
-        <item itemvalue="Application.EdadesCondicional" />
-        <item itemvalue="Application.CalculoCostoRender" />
-        <item itemvalue="Application.CalculoIVA" />
+        <item itemvalue="Application.ExtracImgFromYoutubeVideoUrl" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayBasics" />
+        <item itemvalue="Application.CompoundInterest" />
+        <item itemvalue="Application.Multiplos7y4" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +132,15 @@
       <option name="presentableId" value="Default" />
       <updated>1714381504126</updated>
     </task>
+    <task id="LOCAL-00001" summary="ATL java course">
+      <option name="closed" value="true" />
+      <created>1714490460313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714490460313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
